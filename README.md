@@ -70,13 +70,14 @@
     ![RPA_코드_3.PNG](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/%5B%EC%9D%B8%ED%84%B4_%EA%B9%80%EB%AF%BC%EC%A7%80%5DRPA_%EC%BD%94%EB%93%9C_3.PNG "RPA_코드_3.PNG")
     
 ### 8. 요구사항정의서
-    + 가상 ERP
+  
+1. 가상 ERP
     
-    ![AJ_요구사항분석_ERP.PNG](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D_ERP.PNG "AJ_요구사항분석_ERP.PNG")
+![AJ_요구사항분석_ERP.PNG](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D_ERP.PNG "AJ_요구사항분석_ERP.PNG")
     
-    + RPA
+2. RPA
     
-    ![AJ_요구사항분석_RPA.PNG](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D_RPA.PNG "AJ_요구사항분석_RPA.PNG")
+![AJ_요구사항분석_RPA.PNG](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D_RPA.PNG "AJ_요구사항분석_RPA.PNG")
 
 ### 9. 시연 동영상
 [![RPA-ERP](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.PNG)](https://youtu.be/vMZmKv1e_d0)
