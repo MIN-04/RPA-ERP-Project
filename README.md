@@ -79,6 +79,6 @@
     
 ![AJ_요구사항분석_RPA.PNG](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D_RPA.PNG "AJ_요구사항분석_RPA.PNG")
 
-### 9. 시연 동영상
+### 9. 시연 동영상 (로그아웃 추가 전)
 [![RPA-ERP](https://github.com/MIN-04/RPA-ERP-Project/blob/master/doc/AJ_%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.PNG)](https://youtu.be/vMZmKv1e_d0)
 
